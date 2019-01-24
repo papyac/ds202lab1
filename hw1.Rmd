@@ -1,0 +1,38 @@
+---
+title: "hw1"
+output: html_document
+editor_options:
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+ Data Science is the study of study of how to use data, how to turn data into a useful information for decision making.Data Science is becoming so important because of the rapid growing of data in our daily lives.
+ https://www.bing.com/images/search?view=detailV2&ccid=nqUMQ3Fq&id=9C2B4E2CD5011627C5F1D268BB56DE4D4A46845B&thid=OIP.nqUMQ3FqyevOEeL0xUEq2AHaC9&mediaurl=http%3a%2f%2fmuniversity.mobi%2fblog%2fwp-content%2fuploads%2f2015%2f11%2fdatascienceimp-798x319.jpg&exph=319&expw=798&q=data+science+importance&simid=608045742766358722&selectedIndex=0&ajaxhist=0
+ 
+ **Data Science**
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that gene
+```{r}
+version
+```
+
