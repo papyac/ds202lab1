@@ -1,0 +1,20 @@
+---
+title: "partner"
+author: "Elaine"
+date: "1/24/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+1.) Seydou Yacouba, papyac
+
+2.) he added the homework files, 95562851b0cbaefde5636f96ddfa368e8fb1139a
+
+3.) no problems
+
+4.) know computer stuff
